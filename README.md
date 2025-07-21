@@ -1,4 +1,4 @@
----
+ 
 
 ## 📡 Backend Deployment
 
@@ -15,7 +15,3 @@ Our backend powers the AI logic, wardrobe storage, chatbot handling, and virtual
   - `POST /tryon` – Virtual try-on image generation using VITON-HD
 - **MongoDB** – Stores user wardrobe data with metadata (type, style, season, etc.)
 - Integrated seamlessly with the **React Native Expo frontend**
-
----
-
-
